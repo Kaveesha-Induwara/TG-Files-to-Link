@@ -12,7 +12,7 @@ should include the protocol, e.g. `https://example.com`.
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 ### With Bot Token & Session String
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviya-admin/TG-Files-to-Link)
 
 ### Without Session String
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link/tree/Merging)
@@ -41,7 +41,7 @@ Watch our YouTube video for more details - [How To Create Your Own Telegram File
    
 ### OR use online terminal
 
-[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://generatestringsession.tgexplore.repl.run/)
+[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://repl.it/@kaviyaadmin/generatestringsession#main.py)
 
 
 ## Issue Bot stopped responding 
