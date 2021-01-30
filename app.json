@@ -10,15 +10,15 @@
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
-      "value": ""
+      "value": "2865650"
   },
    "TG_API_HASH": {
       "description": " Your Telegram API hash. Get this value from my.telegram.org!",
-      "value": ""
+      "value": "e8d606554dc20b7f08b4767c2371e3aa"
   },
    "TG_BOT_FATHER_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1699323144:AAEPDMaF9ENBOUjKixWjs3tKVvdyzRRtIaU"
   },
    "HOST": {
       "description": "Leave the Same Value",
@@ -27,11 +27,11 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "https://<appname>.herokuapp.com/"
   },
    "TG_START_MESG": {
       "description": "Set /start Message",
-      "value": ""
+      "value": "/start Welccome"
   }
  }
 }
